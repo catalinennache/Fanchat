@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Fanchat",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

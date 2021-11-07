@@ -1,0 +1,46 @@
+.details{
+  display: inline-flex;
+  justify-content: flex-end;
+  width: 100%;
+  align-items: center;
+}
+.info{
+  display: inline-flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+  width: 42px;
+  margin-left: 5px;
+}
+.info ion-icon{
+  font-size: 15px;
+    margin-top: 2px;
+    margin-left: 3px;
+}
+
+.profilePic{
+  width: 45px;
+    height: 45px;
+    border-radius: 125px;
+    background-color: #2e62ff;
+    position: absolute;
+    top: -10px;
+    right: -10px;
+}
+
+.profilePic img{
+  border-radius: 125px;
+
+}
+
+ion-card-content{
+  display: inline-flex;
+  width: 100%;
+}
+.owner-info{
+  font-size: 12px;
+    font-family: monospace;
+    margin-top: 13px;
+}
+.room-type{
+  width: 100%;
+}

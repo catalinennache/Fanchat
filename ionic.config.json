@@ -1,0 +1,7 @@
+{
+  "name": "Fanchat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
